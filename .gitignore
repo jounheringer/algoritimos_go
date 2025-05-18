@@ -1,0 +1,10 @@
+# Binaries
+/bin/
+/awesomeProject
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
